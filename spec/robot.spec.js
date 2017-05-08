@@ -1,6 +1,6 @@
 'use strict';
 
-describe("Robot", function() {
+it("Robot", function() {
   var robot = new Robot();
 
   it("robot bearing", function() {
